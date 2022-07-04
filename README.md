@@ -1,5 +1,5 @@
 # xilinx-counter
-working, not optimal, coolrunner 2 
+working, not optimal, coolrunner 2 <br />
 .v files contain codes <br />
 
 counter 9999->0 looped, <br />
