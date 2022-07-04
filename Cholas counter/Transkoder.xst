@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/aleks/Desktop/uliceprojekt/Cholasprojekt/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/aleks/Desktop/uliceprojekt/Cholasprojekt/xst"
+elaborate
+-ifn Transkoder.prj
+-ifmt mixed

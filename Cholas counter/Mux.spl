@@ -1,0 +1,12 @@
+[Inputs]
+=pozycja[1:0]=
+=na1[3:0]=
+=na2[3:0]=
+=na3[3:0]=
+=na4[3:0]=
+[Outputs]
+=cyfra[3:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel Mux
+

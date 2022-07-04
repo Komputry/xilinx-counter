@@ -1,0 +1,2 @@
+vhdtdtfi -lib work C:/Users/aleks/Desktop/uliceprojekt/Cholasprojekt/LicznikPozycji.v -lang verilog -prj Cholasprojekt -o LicznikPozycji.spl -module LicznikPozycji -template D:/xil/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family xbr LicznikPozycji.spl C:/Users/aleks/Desktop/uliceprojekt/Cholasprojekt/LicznikPozycji.sym 

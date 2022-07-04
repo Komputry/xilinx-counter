@@ -1,0 +1,14 @@
+[Inputs]
+Clock
+Btn0
+Btn1
+Sw0
+[Outputs]
+=na1[3:0]=
+=na2[3:0]=
+=na3[3:0]=
+=na4[3:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel Projekt
+

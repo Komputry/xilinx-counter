@@ -1,0 +1,2 @@
+vhdtdtfi -lib work C:/Users/aleks/Desktop/uliceprojekt/Cholasprojekt/Transkoder.v -lang verilog -prj Cholasprojekt -o Transkoder.spl -module Transkoder -template D:/xil/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family xbr Transkoder.spl C:/Users/aleks/Desktop/uliceprojekt/Cholasprojekt/Transkoder.sym 

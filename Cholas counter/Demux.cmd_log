@@ -1,0 +1,2 @@
+vhdtdtfi -lib work C:/Users/aleks/Desktop/uliceprojekt/Cholasprojekt/Demux.v -lang verilog -prj Cholasprojekt -o Demux.spl -module Demux -template D:/xil/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family xbr Demux.spl C:/Users/aleks/Desktop/uliceprojekt/Cholasprojekt/Demux.sym 

@@ -1,0 +1,8 @@
+[Inputs]
+=kombinacja[3:0]=
+[Outputs]
+=segmenty[7:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel Transkoder
+

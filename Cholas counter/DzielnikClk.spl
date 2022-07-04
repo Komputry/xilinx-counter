@@ -1,0 +1,9 @@
+[Inputs]
+ClockIn
+[Outputs]
+ClockOutWyswietlanie
+ClockOutDekrementacja
+[BiDir]
+[ATTRIBUTES]
+VeriModel DzielnikClk
+
